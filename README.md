@@ -39,3 +39,4 @@ $ python manage.py runserver
 
 Feel free to fix bugs, improve things, provide documentation. Just send a pull request.
 bu bizning yangi birnima
+1 2 3 4 5 6 7 8 9
