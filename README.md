@@ -38,3 +38,4 @@ $ python manage.py runserver
 ## Contributing
 
 Feel free to fix bugs, improve things, provide documentation. Just send a pull request.
+bu bizning yangi birnima
